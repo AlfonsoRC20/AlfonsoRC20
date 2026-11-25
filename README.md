@@ -8,4 +8,4 @@ Focused on aligning technical engineering foundations with structured project go
 ### Profile Overview
 - **Academic Background:** Final-year B.Sc. in Software Engineering, including an international Erasmus exchange year at **Université de Rennes 1** (France).
 - **Core Focus:** Project Management Office (PMO) operations, requirements analysis, Agile delivery, quality oversight, and stakeholder communication.
-- **Languages:** Spanish (Native) · French (DELF B2 / C1) · English (Professional).
+- **Languages:** Spanish (Native) · French (DALF C1) · English (C1 - Professional), Portuguese (Intermediate level).
